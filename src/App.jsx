@@ -45,7 +45,7 @@ function App() {
       image: shop,
       description: "A clean, animated showcase website.",
       link: "https://github.com/Annie470/ZillaAgency",
-      tech: ["Javascript", "Sass", "React", "Animations", "CRUD"]
+      tech: ["Javascript", "Sass", "Animations", "CRUD"]
     },
   
   ];
